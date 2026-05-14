@@ -1,0 +1,9 @@
+# 不上传 App 源代码与 Xcode 工程
+KaiwuCard/
+
+.DS_Store
+*.xcuserstate
+**/xcuserdata/
+
+# 如需同时排除根目录可执行资源，取消下一行注释
+# xx.html
